@@ -1,0 +1,97 @@
+.offers {
+    width: 1920px;
+    height: 1080px;
+    min-height: 100vh;
+}
+
+
+.icon {
+
+    background: linear-gradient(54.77deg, #1C221F -18.35%, #392D49 109.49%, #57456F 120.33%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 24px;
+    margin: -50px 132px 0px 132px;
+
+}
+
+
+.offers--plan {
+    width: 1572px;
+    height: 528px;
+    margin: 276px 174px;
+}
+
+
+.seller {
+    width: 360px;
+    height: 480px;
+    margin: 0px 44px  0px 0px;
+    background: #FDFDFD;
+    border-radius: 24px;
+    box-sizing: border-box;
+    border: 2px solid #42DDFF;
+    display: inline-block;
+}
+
+.orange--pro {
+    width: 360px;
+    height: 480px;
+    margin: 0px 44px  0px 0px;
+    background: #FDFDFD;
+    border-radius: 24px;
+    box-sizing: border-box;
+    border: 2px solid #F06965;
+    display: inline-block;
+}
+
+
+.violet--pro {
+    width: 360px;
+    height: 480px;
+    margin: 0px 44px  0px 0px;
+    background: #FDFDFD;
+    border-radius: 24px;
+    box-sizing: border-box;
+    border: 2px solid #5E2DF6;
+    display: inline-block; 
+}
+
+.cashout {
+    width: 360px;
+    height: 480px;
+    background: #FDFDFD;
+    border-radius: 24px;
+    box-sizing: border-box;
+    border: 2px solid #1C221F;
+    display: inline-block; 
+}
+
+
+.subtitle {
+    font-size: 20px;
+    text-align: center;
+    color: #0F0B224D;
+    margin-top: 24px;
+    
+}
+
+.price {
+    font-size: 48px;
+    color:#0F0B22;
+    text-align: center;
+    margin: 166px 69px 0px 69px;
+
+}
+
+.choose--plan {
+    font-size: 18px;
+    color: #FFFFFF;
+    width: 216px;
+    height: 54px;
+    background: linear-gradient(90deg, #42DDFF -17.86%, #50C9FD 116.28%);
+    box-shadow: 0px 12px 24px -6px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    border: none;
+    margin: 118px 72px 36px 72px ;
+}
+
